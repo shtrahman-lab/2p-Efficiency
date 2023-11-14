@@ -1,5 +1,5 @@
 # Data for "Evaluation of compact pulsed lasers for two-photon microscopy using a simple method for measuring two-photon excitation efficiency"
-This repository contains data and CAD files associated with the manuscript "Evaluation of compact pulsed lasers for two-photon microscopy using a simple method for measuring two-photon excitation efficiency" by Samir Saidi and Matthew Shtrahman, currently under review.
+This repository contains data and CAD files associated with the manuscript "Evaluation of compact pulsed lasers for two-photon microscopy using a simple method for measuring two-photon excitation efficiency" by Samir Saidi and Matthew Shtrahman, published in Neurophotonics Journal. Open access link: https://doi.org/10.1117/1.NPh.10.4.044303
 
 ## Fluorescence_Data
 Comma-separated value (CSV) files containing fluorescence data from each of the lasers.
